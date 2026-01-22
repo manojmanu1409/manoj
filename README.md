@@ -1,29 +1,57 @@
-# manoj
+# Hi 👋, I'm Manoj Kumar
 
-# 👋 Hi, I'm Manoj Kumar
+🎓 Computer Science Student | 💻 Java & Full-Stack Developer | 🤖 AI & ML Enthusiast
 
-## 🚀 About Me
-- 💻 Passionate about **Software Development, AI, and DevOps**  
-- 🌍 Interested in **Linked Open Data, Location-Based Systems, and Tourism Tech**  
-- 🔐 Exploring **Phishing Detection using Machine Learning & Deep Learning**  
-- 📚 Currently learning **Java, Python, and MySQL** deeply  
-- ☁️ Exploring **AI in DevOps pipelines**  
+---
+
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **Full Stack Java projects**
+- 🌱 Learning **Spring Boot, React, MySQL, and AI DevOps**
+- 📊 Interested in **Machine Learning, Deep Learning & Linked Open Data**
+- 🧠 Strong in **DSA and problem solving**
+- 💡 Passionate about building real-world applications
+
+---
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, Python, SQL  
-- **Databases:** MySQL  
-- **Tools & Platforms:** Git, GitHub, Linux, VS Code  
-- **Interests:** Machine Learning, Deep Learning, Recommendation Systems  
+**Languages**
+- Java
+- Python
+- SQL
 
-## 📈 GitHub Stats
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+**Backend**
+- Spring Boot
+- Hibernate
+- REST APIs
 
-## 🌟 Featured Projects
-- 📌 **Location-Based Recommendation System** – Leveraging Linked Open Data for tourism  
-- 📌 **AI DevOps Internship Projects** – Automating and monitoring AI workflows  
-- 📌 **Phishing Detection Models** – Comparing ML & DL methods  
+**Frontend**
+- HTML, CSS, JavaScript
+- React
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- ✉️ Email: your.email@example.com  
+**Database**
+- MySQL
 
+**Tools**
+- Git & GitHub
+- Postman
+- IntelliJ IDEA
+- VS Code
+
+---
+
+## 📌 Projects
+- 📍 **Location Based Recommendation System (LOD in Tourism)**
+- 🔐 **Phishing Detection using Machine Learning**
+- 🧾 **Full Stack Java Authentication System (JWT + Spring Security)**
+
+👉 Check my repositories for more!
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: *add your link here*
+- 📧 Email: *add your email here*
+
+---
+
+⭐ *Feel free to explore my repositories and give a star if you like my work!*
